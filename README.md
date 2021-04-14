@@ -1,0 +1,1 @@
+A simple Vanilla JavaScript app that plays a sounds when clicking on a button.
